@@ -3,6 +3,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+.bowerrc
 Icon
 
 # Thumbnails
@@ -29,3 +30,4 @@ results
 npm-debug.log
 node_modules
 server
+bower_components
